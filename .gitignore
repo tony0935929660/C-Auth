@@ -1,0 +1,90 @@
+# Build artifacts
+bin/
+obj/
+out/
+[Ll]og/
+*.log
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Core
+appsettings.Development.json
+appsettings.Local.json
+Properties/launchSettings.json
+
+# Paket
+.paket/
+paket-files/
+
+# dotCover
+.idea/
+*.dotCover
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# JetBrains
+*.sln.iml
+
+# Publish output
+wwwroot/dist/
+wwwroot/node_modules/
+wwwroot/build/
+*.db
+
+# Dependency folders
+node_modules/
+bower_components/
+
+# Logs
+*.log
+logs/
+*.tlog
+
+# Backup & misc
+*.bak
+*.old
+*.orig
+*.tmp
+
+# Environment
+.env
+.env.*
+
+# Others
+*.sqlite
+*.pdb
+*.mdb
+
+# NuGet
+*.nupkg
+.nuget/
+packages/
+
+# VS for Mac
+*.pidb
+*.userprefs
+
+# Others
+.DS_Store
+Thumbs.db
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
